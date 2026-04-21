@@ -23,6 +23,13 @@ Thumbs.db
 *.jks
 *.keystore
 *.p12
+key.properties
+keystore.properties
+secrets.properties
+
+# Distribution artifacts
+*.apk
+*.aab
 
 # Logs
 *.log
